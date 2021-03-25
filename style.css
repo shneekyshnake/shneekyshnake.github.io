@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color:            black;
+  text-align:         center;
+  font-size:          200%;
+}
+
+
+h2 {text-align:       center;
+  font-size:          400%;
+  color:            rgb(255, 102, 0);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
